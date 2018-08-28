@@ -1,0 +1,12 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "algoliasearch": "^3.29.0",
+    "crawler": "^1.1.4",
+    "unfluff": "^3.0.1",
+    "url": "^0.11.0"
+  }
+}
